@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\test\test\Source.c(15,9): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'time_t'
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\test\test\Source.c(15,9): message : consider using '%lld' in the format string
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\test\test\Source.c(15,9): message : consider using '%I64d' in the format string
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\test\test\Source.c(16,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'time_t'
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\test\test\Source.c(16,9): message : consider using '%lld' in the format string
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\test\test\Source.c(16,9): message : consider using '%I64d' in the format string
+  test.vcxproj -> C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\test\Debug\test.exe

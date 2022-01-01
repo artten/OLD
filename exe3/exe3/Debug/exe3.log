@@ -1,0 +1,6 @@
+﻿  ass3.c
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe3\exe3\ass3.c(108,39): warning C4244: 'function': conversion from 'long' to 'float', possible loss of data
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe3\exe3\ass3.c(108,50): warning C4244: 'function': conversion from 'long' to 'float', possible loss of data
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe3\exe3\ass3.c(176): warning C4715: 'isDivisibleBy3Helper': not all control paths return a value
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe3\Debug\exe3.exe : fatal error LNK1120: 1 unresolved externals

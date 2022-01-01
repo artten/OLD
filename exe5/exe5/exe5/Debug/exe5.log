@@ -1,0 +1,34 @@
+﻿  ex5.h
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(160,8): warning C4473: 'scanf' : not enough arguments passed for format string
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(160,8): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(160,8): message : the missing variadic argument 1 is required by format string '%c'
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(158,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(160,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(604,8): warning C4473: 'scanf' : not enough arguments passed for format string
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(604,8): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(604,8): message : the missing variadic argument 1 is required by format string '%c'
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(604,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(815,8): warning C4473: 'scanf' : not enough arguments passed for format string
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(815,8): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(815,8): message : the missing variadic argument 1 is required by format string '%c'
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(815,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(861,8): warning C4473: 'scanf' : not enough arguments passed for format string
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(861,8): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(861,8): message : the missing variadic argument 1 is required by format string '%c'
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(861,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(967,10): warning C4477: 'printf' : format string '%S' requires an argument of type 'wchar_t *', but variadic argument 2 has type 'char *'
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(967,10): message : consider using '%hS' in the format string
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(967,10): message : consider using '%TS' in the format string
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(1013,10): warning C4477: 'printf' : format string '%S' requires an argument of type 'wchar_t *', but variadic argument 2 has type 'char *'
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(1013,10): message : consider using '%hS' in the format string
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(1013,10): message : consider using '%TS' in the format string
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(1058,10): warning C4477: 'printf' : format string '%S' requires an argument of type 'wchar_t *', but variadic argument 2 has type 'char *'
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(1058,10): message : consider using '%hS' in the format string
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(1058,10): message : consider using '%TS' in the format string
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(1101,10): warning C4477: 'printf' : format string '%S' requires an argument of type 'wchar_t *', but variadic argument 2 has type 'char *'
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(1101,10): message : consider using '%hS' in the format string
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(1101,10): message : consider using '%TS' in the format string
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(1133,10): warning C4477: 'printf' : format string '%S' requires an argument of type 'wchar_t *', but variadic argument 2 has type 'char *'
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(1133,10): message : consider using '%hS' in the format string
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(1133,10): message : consider using '%TS' in the format string
+C:\Users\artte\OneDrive\שולחן העבודה\Work\Bar Ilan CS\CS basic\exe5\exe5\exe5\ex5.c(1154,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
